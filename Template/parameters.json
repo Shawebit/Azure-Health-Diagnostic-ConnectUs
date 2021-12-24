@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_ConnectUswebapp_name": {
+            "value": null
+        },
+        "vaults_bot_secrets_rldgpy_name": {
+            "value": null
+        },
+        "serverfarms_ASP_ConnectUs_902f_name": {
+            "value": null
+        },
+        "components_connectuswebapp_name": {
+            "value": null
+        },
+        "healthBots_connectushealthbot_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___connectuswebapp_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_fbff34db_632b_4655_a2f5_65e48e845ce3_CID_externalid": {
+            "value": null
+        }
+    }
+}
