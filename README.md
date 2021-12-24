@@ -23,7 +23,6 @@ Following  components are provisioned in resource Group: ConnectUs
   * Azure Application Insights
   * Azure Health Bot
   * App Service Plan
-  * Azure bot service
   * Azure Web App
   * Azure Key Vault
 
