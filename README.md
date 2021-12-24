@@ -60,7 +60,7 @@ Azure Application Insights is been added which can monitor Azure cloud service a
 
 ## We successfully hosted our website
  
-![Tasks](images/web.jpg)
+![Tasks](images/web.png)
 
 Link: https://connectuswebapp.azurewebsites.net/
 
